@@ -1,6 +1,6 @@
 # Hackintosh EFI for H510M-K
 
-OpenCore version: v1.0.4 (modded)
+OpenCore version: v1.0.4 (modded)  
 MacOS version: 15.3.1 (Sequoia)
 
 | Component | Model |
